@@ -6,16 +6,16 @@
       <Value Profile="(Default)">.\</Value>
     </Setting>
     <Setting Name="database" Type="System.String" Scope="User">
-      <Value Profile="(Default)">sell_managment_DB</Value>
+      <Value Profile="(Default)"> </Value>
     </Setting>
     <Setting Name="mode" Type="System.String" Scope="User">
       <Value Profile="(Default)">windows</Value>
     </Setting>
     <Setting Name="user_id" Type="System.String" Scope="User">
-      <Value Profile="(Default)">MJspk</Value>
+      <Value Profile="(Default)"> </Value>
     </Setting>
     <Setting Name="password" Type="System.String" Scope="User">
-      <Value Profile="(Default)">spkx9876</Value>
+      <Value Profile="(Default)"> </Value>
     </Setting>
   </Settings>
 </SettingsFile>
